@@ -7,7 +7,7 @@ function setup() {
 }
 
 function draw() {
-  background(0,50);
+  background(0);
   stroke(255,70);
   //frameRate(30);
   //newAng = map(mouseX , 0 , width, 0, TWO_PI);
